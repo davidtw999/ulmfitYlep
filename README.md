@@ -8,11 +8,11 @@ This repository contains implementations of ULMFiT approach applied to sentiment
 
 **`train_test_model.ipynb`** file for training ULMFiT
 
-*   `trainData.csv` Translated Train Data with 650,000 reviews
+*   `trainData.csv` Translated Train Data with 650,000 reviews (email me if you need the data set)
 
-*   `testDataTrans.csv` Translated Test Data 50000 reviews
+*   `testDataTrans.csv` Translated Test Data 50000 reviews (email me if you need the data set)
 
-*   `models folder` contain pre-trained models, containing `itos_wt103.pkl` and `lstm_wt103.pth`.
+*   `models folder` contain pre-trained models, containing `itos_wt103.pkl` and `lstm_wt103.pth`. (email me if you need the pre-trained models)
 
 
 
